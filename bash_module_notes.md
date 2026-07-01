@@ -1,6 +1,6 @@
 # Bash Scripting Module Notes
 
-> Study notes for DevOps Engineering pathway
+> Study notes
 
 ## Table of Contents
 
