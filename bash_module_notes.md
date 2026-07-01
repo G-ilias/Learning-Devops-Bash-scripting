@@ -18,7 +18,7 @@
 
 ## 1. Running Scripts
 
-There are three ways to run a script. You only need `sh` or `bash` if there is no shebang line at the top of the script. Adding a script to `$PATH` means you can run it from anywhere without specifying the full path.
+There are three ways to run a script. You only need `sh` or `bash`(or whatever shell it is) if there is no shebang line at the top of the script. Adding a script to `$PATH` means you can run it from anywhere without specifying the full path.
 
 ```bash
 sh example.sh       # run with sh
