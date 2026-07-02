@@ -1,6 +1,6 @@
 # Bash Scripts
 
-> Scripts built from the Bash Scripting Module - DevOps Engineering pathway
+> Scripts built
 
 ## Table of Contents
 
@@ -154,4 +154,4 @@ echo "Backup directory created: $backup_directory"
 echo "Backup completed! Files backed up: $count"
 ```
 
-*Scripts built as part of the Bash Scripting Module - DevOps Engineering pathway*
+*Scripts built*
