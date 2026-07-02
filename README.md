@@ -5,3 +5,6 @@ Here are some of the notes I've been taking while learning how to automate comma
 ## Notes
 
 - [Bash Module Notes](./bash_module_notes.md)
+
+## Scripts
+- [Bash Scripts](./bash_scripts.md)
